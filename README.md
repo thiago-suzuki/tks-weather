@@ -16,6 +16,8 @@ Site de Consulta da Previsão do Tempo, Temperatura e Detalhes do Clima
 - [Lucide React](https://lucide.dev/) > Biblioteca de ícones
 - [Next Intl](https://next-intl.dev/) > Biblioteca para tradução de textos
 - [OpenWeather API](https://openweathermap.org/) > API de Consulta do Clima
+- [Ky](https://github.com/sindresorhus/ky) > Biblioteca HTTP para requisições à API
+- [Tanstack Query](https://tanstack.com/query/docs) > Biblioteca de gerenciamento de estado assíncrono de dados
 
 <br /><br />
 
