@@ -1,0 +1,68 @@
+{
+  "Pages": {
+    "WeatherDashboard": {
+      "title-my-location": "Mi Ubicación",
+      "error-location": {
+        "title": "Error de Ubicación",
+        "button-enable": "Habilitar Ubicación"
+      },
+      "error-required-location": {
+        "title": "Ubicación Requerida",
+        "message": "Habilita el acceso a la ubicación para ver el clima local",
+        "button-enable": "Habilitar Ubicación"
+      },
+      "error-fetch": {
+        "title": "Error",
+        "message": "No se pudieron obtener los datos meteorológicos. Inténtalo de nuevo.",
+        "button-retry": "Intentar de nuevo"
+      }
+    },
+    "CityPage": {
+      "error-fetch": "No se pudieron obtener los datos meteorológicos. Inténtalo de nuevo."
+    }
+  },
+  "Components": {
+    "Header": {
+      "languages": {
+        "en": "Inglés",
+        "es": "Español",
+        "pt-br": "Portugués"
+      }
+    },
+    "HourlyTemprature": {
+      "title": "Temperatura de Hoy",
+      "temprature": "Temperatura",
+      "feels-like": "Sensación térmica"
+    },
+    "ThemeToggleSwitch": {
+      "label-dark": "Oscuro",
+      "label-light": "Claro"
+    },
+    "CurrentWeather": {
+      "WindChill": "Sensación térmica",
+      "Humidity": "Humedad",
+      "WindSpeed": "Velocidad del viento"
+    },
+    "WeatherDetails": {
+      "title": "Detalles del clima",
+      "Sunrise": "Amanecer",
+      "Sunset": "Puesta de sol",
+      "WindDirection": "Dirección del viento",
+      "Pressure": "Presión"
+    },
+    "WeatherForecast": {
+      "title": "Previsión para los próximos 5 días"
+    },
+    "FavoriteCities": {
+      "title": "Favoritos"
+    },
+    "CitySearch": {
+      "search-cities": "Buscar ciudades...",
+      "no-cities-found": "No se encontraron ciudades.",
+      "recent-searches": "Búsquedas recientes",
+      "clear-history": "Limpiar",
+      "suggestions": "Sugestiones",
+      "favorites": "Favoritos"
+    }
+  }
+}

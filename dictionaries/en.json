@@ -1,0 +1,68 @@
+{
+  "Pages": {
+    "WeatherDashboard": {
+      "title-my-location": "My Location",
+      "error-location": {
+        "title": "Location Error",
+        "button-enable": "Enable Location"
+      },
+      "error-required-location": {
+        "title": "Location Required",
+        "message": "Enable location access to view the local weather",
+        "button-enable": "Enable Location"
+      },
+      "error-fetch": {
+        "title": "Error",
+        "message": "Failed to fetch weather data. Please try again.",
+        "button-retry": "Try Again"
+      }
+    },
+    "CityPage": {
+      "error-fetch": "Failed to load weather data. Please try again."
+    }
+  },
+  "Components": {
+    "Header": {
+      "languages": {
+        "en": "English",
+        "es": "Spanish",
+        "pt-br": "Portuguese"
+      }
+    },
+    "HourlyTemprature": {
+      "title": "Today's Temperature",
+      "temprature": "Temperature",
+      "feels-like": "Feels Like"
+    },
+    "ThemeToggleSwitch": {
+      "label-dark": "Dark",
+      "label-light": "Light"
+    },
+    "CurrentWeather": {
+      "WindChill": "Wind Chill",
+      "Humidity": "Humidity",
+      "WindSpeed": "Wind Speed"
+    },
+    "WeatherDetails": {
+      "title": "Weather Details",
+      "Sunrise": "Sunrise",
+      "Sunset": "Sunset",
+      "WindDirection": "Wind Direction",
+      "Pressure": "Pressure"
+    },
+    "WeatherForecast": {
+      "title": "Forecast for the next 5 days"
+    },
+    "FavoriteCities": {
+      "title": "Favorites"
+    },
+    "CitySearch": {
+      "search-cities": "Search cities...",
+      "no-cities-found": "No cities found.",
+      "recent-searches": "Recent Searches",
+      "clear-history": "Clear",
+      "suggestions": "Suggestions",
+      "favorites": "Favorites"
+    }
+  }
+}

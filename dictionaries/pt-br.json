@@ -1,0 +1,68 @@
+{
+    "Pages": {
+        "WeatherDashboard": {
+            "title-my-location": "Minha Localização",
+            "error-location": {
+                "title": "Erro de Localização",
+                "button-enable": "Habilitar Localização"
+            },
+            "error-required-location": {
+                "title": "Localização Obrigatória",
+                "message": "Habilite o acesso à localização para ver o clima local",
+                "button-enable": "Habilitar Localização"
+            },
+            "error-fetch": {
+                "title": "Erro",
+                "message": "Falha ao buscar dados meteorológicos. Tente novamente.",
+                "button-retry": "Tente novamente"
+            }
+        },
+        "CityPage": {
+            "error-fetch": "Falha ao carregar dados meteorológicos. Tente novamente."
+        }
+    },
+    "Components": {
+        "Header": {
+            "languages": {
+                "en": "Inglês",
+                "es": "Espanhol",
+                "pt-br": "Português"
+            }
+        },
+        "HourlyTemprature": {
+            "title": "Temperatura de Hoje",
+            "temprature": "Temperatura",
+            "feels-like": "Sensação Térmica"
+        },
+        "ThemeToggleSwitch": {
+            "label-dark": "Escuro",
+            "label-light": "Claro"
+        },
+        "CurrentWeather": {
+            "WindChill": "Sensação térmica",
+            "Humidity": "Umidade",
+            "WindSpeed": "Velocidade do vento"
+        },
+        "WeatherDetails": {
+            "title": "Detalhes do clima",
+            "Sunrise": "Nascer do sol",
+            "Sunset": "Pôr do sol",
+            "WindDirection": "Direção do vento",
+            "Pressure": "Pressão"
+        },
+        "WeatherForecast": {
+            "title": "Previsão para os próximos 5 dias"
+        },
+        "FavoriteCities": {
+            "title": "Favoritos"
+        },
+        "CitySearch": {
+            "search-cities": "Pesquisar cidades...",
+            "no-cities-found": "Nenhuma cidade encontrada.",
+            "recent-searches": "Pesquisas recentes",
+            "clear-history": "Limpar",
+            "suggestions": "Sugestões",
+            "favorites": "Favoritos"
+        }
+    }
+}
