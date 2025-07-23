@@ -20,7 +20,7 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "TKS Weather",
   icons: {
-    icon: "/logo.png",
+    icon: "/weather.svg",
   }
 };
 
